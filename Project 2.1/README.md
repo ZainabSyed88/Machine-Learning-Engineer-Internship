@@ -1,8 +1,10 @@
 **Market Segmentation of Electronic Vehicles in India**
+
 **Overview**
 This project focuses on segmenting customers in the Indian Electronic Vehicle (EV) market using clustering techniques. The goal is to identify distinct customer segments and map them to the Technology Adoption Life Cycle (TALC) for targeted marketing strategies.
 
 **Key Objectives**
+
 Understand customer attributes influencing EV adoption.
 Identify distinct customer clusters based on demographic and economic features.
 Map the clusters to the TALC framework for strategic marketing.
