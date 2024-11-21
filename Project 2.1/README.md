@@ -13,13 +13,21 @@ Dataset Description
 The dataset used for this project contains the following attributes:
 
 **Age:** Age of the customer.
+
 **Profession:** Occupation of the customer.
+
 **Marital Status: **Marital status (Married/Single).
+
 **Car Loan:** Status of car loan requirement.
+
 **No of Dependents:** Number of dependents the customer has.
+
 **Total Salary: **Total annual income.
+
 **EV Price: **Price of the EV considered/purchased.
+
 Project Workflow
+
 Data Preprocessing
 
 Checked for missing and duplicate values.
