@@ -34,8 +34,11 @@ Clustering with K-Prototypes
 Used K-Prototypes for clustering mixed data types.
 Determined optimal number of clusters using cost analysis.
 Achieved two clusters:
+
 **Cluster 0:** Early Adopters
+
 **Cluster 1:** Early Majority
+
 Mapping Clusters to TALC
 
 Mapped clusters to the Technology Adoption Life Cycle to better understand customer segments.
@@ -43,12 +46,15 @@ Evaluation
 
 Computed a Silhouette Score of 0.55, indicating a moderately good clustering result.
 **Insights**
+
 **Cluster 0 (Early Adopters):**
 Younger, tech-savvy, and environmentally conscious customers.
 Higher willingness to pay a premium for new EV technology.
+
 **Cluster 1 (Early Majority):**
 Middle-aged, middle-income customers.
 More price-sensitive and require evidence of product benefits before adoption.
+
 **Visualizations**
 Age distribution, marital status analysis, and car loan requirements.
 Influence of EV price on salary, age, and number of dependents using scatter and 3D plots.
